@@ -1,9 +1,7 @@
 ![retrogaming](https://github.com/jmmanoza/jmmanoza/assets/153807014/600aee30-bc20-4474-9509-41f02c36dae7)
 
-<h1 align="center">Hi <img align="right" width="24" height="24" src="https://github.com/jmmanoza/jmmanoza/assets/153807014/188d88e2-dcc1-4070-b56a-53ffc9bd849e"> there!/h1>
+<h1 align="center">Hi <img width="24" height="24" src="https://github.com/jmmanoza/jmmanoza/assets/153807014/188d88e2-dcc1-4070-b56a-53ffc9bd849e"> there!/h1>
 <h3 align="center">An iOS Developer</h3>
-
-<img align="right" width="250" height="280" src="https://github.com/jmmanoza/jmmanoza/assets/153807014/2afe586e-6190-44c8-a226-a4e8dac1990c">
 
 - 🧠 Currently studying Flutter, Dart, React Native
 - 🌍 I'm based in Quezon City, Philippines

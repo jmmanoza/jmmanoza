@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<img align="right" width="100" height="100" src="http://www.fillmurray.com/100/100">
 <a href="https://fb.com/mikko.manoza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mikko.manoza" height="30" width="40" /></a>
 
-<a href="" target="blank"><img align="left" src="https://github.com/jmmanoza/jmmanoza/assets/153807014/f53659f3-cff3-40a2-8584-1c7e441f72f3" alt="" /></a>
 </p>
 
 

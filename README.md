@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm JM Manoza</h1>
 <h3 align="center">An iOS Developer</h3>
 
-<img align="right" width="200" height="280" src="https://github.com/jmmanoza/jmmanoza/assets/153807014/2afe586e-6190-44c8-a226-a4e8dac1990c">
+<img align="right" width="250" height="280" src="https://github.com/jmmanoza/jmmanoza/assets/153807014/2afe586e-6190-44c8-a226-a4e8dac1990c">
 
 - 🧠 Currently studying Flutter, Dart, React Native
 - 🌍 I'm based in Quezon City, Philippines

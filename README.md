@@ -1,4 +1,4 @@
-![retrogaming](https://github.com/josephmikko/josephmikko/assets/153807014/c00593f9-a5a2-40a7-8d0b-1fa6362cbac2)
+![retrogaming](https://github.com/jmmanoza/jmmanoza/assets/153807014/600aee30-bc20-4474-9509-41f02c36dae7)
 
 <h1 align="center">Hi 👋, I'm JM Manoza</h1>
 <h3 align="center">An iOS Developer</h3>

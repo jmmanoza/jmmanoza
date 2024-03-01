@@ -1,4 +1,4 @@
-![mario2](https://github.com/jmmanoza/jmmanoza/assets/153807014/97bb1263-6739-4873-9970-497c3de521f7)
+![retrogaming](https://github.com/jmmanoza/jmmanoza/assets/153807014/600aee30-bc20-4474-9509-41f02c36dae7)
 
 <h1 align="center">Hi <img width="24" height="24" src="https://github.com/jmmanoza/jmmanoza/assets/153807014/188d88e2-dcc1-4070-b56a-53ffc9bd849e"> there!</h1>
 
@@ -27,14 +27,13 @@
 
 - Your new all-in-one eWallet app where you can send cash, buy load, purchase gaming pins, and many more.
 
-<h1 align="center"> <img width="610" height="360" src="https://github.com/jmmanoza/jmmanoza/assets/153807014/deac9724-6b03-46c5-a903-be8ea4a76558"> </h1>
+<h1 align="center"> <img width="610" height="360" src="https://github.com/jmmanoza/jmmanoza/assets/153807014/56ff9784-31a9-44ee-b575-8039deba6658"> </h1>
 
 --
 
-Upmood Watch
+<h2> Upmood Watch </h2>
+
 - Upmood is the first emotion tracking wearable and app that helps people be their best self through a deeper and better understanding of their emotion.
 
-https://github.com/jmmanoza/jmmanoza/assets/153807014/3dd1e0e7-58d2-434e-8e0d-e4adf44f887d
-
-
+<h1 align="center"> <img width="610" height="360" src="https://github.com/jmmanoza/jmmanoza/assets/153807014/1eae6cc0-aa9a-409e-b92f-6a1e4926e32e"> </h1>
 

@@ -19,4 +19,4 @@
 
 ---
 
-<h1 align="center">Apps <img width="34" height="34" src="https://github.com/jmmanoza/jmmanoza/assets/153807014/ecbaf08f-0e5c-4977-99a0-55497478f250"> </h1>
+<h1 align="center">Apps <img width="32" height="32" src="https://github.com/jmmanoza/jmmanoza/assets/153807014/ecbaf08f-0e5c-4977-99a0-55497478f250"> </h1>

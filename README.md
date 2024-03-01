@@ -39,12 +39,15 @@
 <div align="center">
   <video src="https://github.com/jmmanoza/jmmanoza/assets/153807014/1eae6cc0-aa9a-409e-b92f-6a1e4926e32e" width="610" height="360" />
 </div>
-
+--
+    
 <h2> MoodMix by Upmood </h2>
 
-- MoodMix is an emotional DJ AI that has the ability to understand the user’s emotion quality and creates responsive playlists using Alpha, Beta and Delta and Gamma waves when wearing the tracker. By capitalizing on these waves, the technology will generate the right music to optimize the user’s different scenarios.
-The entire catalogue of the MoodMix Player has been carefully selected and curated entirely from our highly acclaimed, award-winning library. 
-Coupling Upmood’s technology with our quality mood music, Moodmix is the perfect collaboration and tool for anyone who needs and wants music to accompany their various journeys.
+- MoodMix is an emotional DJ AI that has the ability to understand the user’s emotion quality and creates responsive playlists using Alpha, Beta and Delta and Gamma waves when wearing the tracker. By capitalizing on these waves, the technology will generate the right music to optimize the user’s different scenarios.\n
+  
+The entire catalogue of the MoodMix Player has been carefully selected and curated entirely from our highly acclaimed, award-winning library.\n
+
+Coupling Upmood’s technology with our quality mood music, Moodmix is the perfect collaboration and tool for anyone who needs and wants music to accompany their various journeys.\n
 
 <div align="center">
   <video src="https://github.com/jmmanoza/jmmanoza/assets/153807014/1a888fac-a467-4621-bf16-c0d796238b67" width="610" height="360" />

@@ -24,9 +24,9 @@
 TOP.ph 
 - Your new all-in-one eWallet app where you can send cash, buy load, purchase gaming pins, and many more.
 
-<img width="550" height="400" src="https://github.com/jmmanoza/jmmanoza/assets/153807014/deac9724-6b03-46c5-a903-be8ea4a76558">
+<h1 align="center"> <img width="550" height="400" src="https://github.com/jmmanoza/jmmanoza/assets/153807014/deac9724-6b03-46c5-a903-be8ea4a76558"> <img width="400" height="400" src="https://github.com/jmmanoza/jmmanoza/assets/153807014/35698725-6ad7-48be-9bea-735506acd480"> </h1>
 
-<img width="400" height="400" src="https://github.com/jmmanoza/jmmanoza/assets/153807014/35698725-6ad7-48be-9bea-735506acd480">
+--
 
 Upmood Watch
 - Upmood is the first emotion tracking wearable and app that helps people be their best self through a deeper and better understanding of their emotion.

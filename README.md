@@ -36,5 +36,7 @@
 
 - Upmood is the first emotion tracking wearable and app that helps people be their best self through a deeper and better understanding of their emotion.
 
-<h1 align="center"> <img width="610" height="360" src="https://github.com/jmmanoza/jmmanoza/assets/153807014/1eae6cc0-aa9a-409e-b92f-6a1e4926e32e"> </h1>
+<div align="center">
+  <video src="https://github.com/jmmanoza/jmmanoza/assets/153807014/1eae6cc0-aa9a-409e-b92f-6a1e4926e32e" width="610" height="360" />
+</div>
 

@@ -23,7 +23,7 @@
 
 ---
 
-<h2> TOP.ph </h2>
+<h2> [TOP.ph](https://www.facebook.com/theorangeplatform) </h2>
 
 - Your new all-in-one eWallet app where you can send cash, buy load, purchase gaming pins, and many more.
 
@@ -43,11 +43,11 @@
     
 <h2> MoodMix by Upmood </h2>
 
-- MoodMix is an emotional DJ AI that has the ability to understand the user’s emotion quality and creates responsive playlists using Alpha, Beta and Delta and Gamma waves when wearing the tracker. By capitalizing on these waves, the technology will generate the right music to optimize the user’s different scenarios.\n
+- MoodMix is an emotional DJ AI that has the ability to understand the user’s emotion quality and creates responsive playlists using Alpha, Beta and Delta and Gamma waves when wearing the tracker. By capitalizing on these waves, the technology will generate the right music to optimize the user’s different scenarios.
   
-The entire catalogue of the MoodMix Player has been carefully selected and curated entirely from our highly acclaimed, award-winning library.\n
+- The entire catalogue of the MoodMix Player has been carefully selected and curated entirely from our highly acclaimed, award-winning library.\n
 
-Coupling Upmood’s technology with our quality mood music, Moodmix is the perfect collaboration and tool for anyone who needs and wants music to accompany their various journeys.\n
+- Coupling Upmood’s technology with our quality mood music, Moodmix is the perfect collaboration and tool for anyone who needs and wants music to accompany their various journeys.
 
 <div align="center">
   <video src="https://github.com/jmmanoza/jmmanoza/assets/153807014/1a888fac-a467-4621-bf16-c0d796238b67" width="610" height="360" />

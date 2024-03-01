@@ -26,6 +26,7 @@
 <h2> TOP.ph </h2>
 
 - Your new all-in-one eWallet app where you can send cash, buy load, purchase gaming pins, and many more.
+- [LEARN MORE](https://www.facebook.com/theorangeplatform)
 
 <div align="center">
   <video src="https://github.com/jmmanoza/jmmanoza/assets/153807014/56ff9784-31a9-44ee-b575-8039deba6658" width="610" height="360" />
@@ -35,6 +36,7 @@
 <h2> Upmood Watch </h2>
 
 - Upmood is the first emotion tracking wearable and app that helps people be their best self through a deeper and better understanding of their emotion.
+- [LEARN MORE](https://www.upmood.com/)
 
 <div align="center">
   <video src="https://github.com/jmmanoza/jmmanoza/assets/153807014/1eae6cc0-aa9a-409e-b92f-6a1e4926e32e" width="610" height="360" />
@@ -45,9 +47,11 @@
 
 - MoodMix is an emotional DJ AI that has the ability to understand the user’s emotion quality and creates responsive playlists using Alpha, Beta and Delta and Gamma waves when wearing the tracker. By capitalizing on these waves, the technology will generate the right music to optimize the user’s different scenarios.
   
-- The entire catalogue of the MoodMix Player has been carefully selected and curated entirely from our highly acclaimed, award-winning library.\n
+- The entire catalogue of the MoodMix Player has been carefully selected and curated entirely from our highly acclaimed, award-winning library.
 
 - Coupling Upmood’s technology with our quality mood music, Moodmix is the perfect collaboration and tool for anyone who needs and wants music to accompany their various journeys.
+
+- [LEARN MORE](https://www.universalproductionmusic.com/en-hk/discover/get-inspired/upmood-moodmix)
 
 <div align="center">
   <video src="https://github.com/jmmanoza/jmmanoza/assets/153807014/1a888fac-a467-4621-bf16-c0d796238b67" width="610" height="360" />

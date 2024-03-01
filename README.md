@@ -2,6 +2,8 @@
 
 <h1 align="center">Hi <img width="24" height="24" src="https://github.com/jmmanoza/jmmanoza/assets/153807014/188d88e2-dcc1-4070-b56a-53ffc9bd849e"> there!</h1>
 
+---
+
 - 🧠 Currently studying Flutter, Dart, React Native
 - 🌍 I'm based in Quezon City, Philippines
 - 💬 Ask me about **Swift, SwiftUI**
@@ -17,4 +19,4 @@
 
 ---
 
-<h1 align="center">Apps <img width="24" height="24" src="https://github.com/jmmanoza/jmmanoza/assets/153807014/ecbaf08f-0e5c-4977-99a0-55497478f250"> </h1>
+<h1 align="center">Apps <img width="48" height="48" src="https://github.com/jmmanoza/jmmanoza/assets/153807014/ecbaf08f-0e5c-4977-99a0-55497478f250"> </h1>

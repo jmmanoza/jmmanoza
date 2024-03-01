@@ -19,7 +19,7 @@
 
 ---
 
-<h1 align="center">Apps <img width="32" height="32" src="https://github.com/jmmanoza/jmmanoza/assets/153807014/ecbaf08f-0e5c-4977-99a0-55497478f250"> </h1>
+<h1 align="center">Apps <img width="24" height="24" src="https://github.com/jmmanoza/jmmanoza/assets/153807014/8ac6a301-b72c-4255-803c-15b1caff7a05"> </h1>
 
 ---
 

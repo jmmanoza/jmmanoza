@@ -1,6 +1,6 @@
 ![retrogaming](https://github.com/jmmanoza/jmmanoza/assets/153807014/600aee30-bc20-4474-9509-41f02c36dae7)
 
-<h1 align="center">Hi <img width="24" height="24" src="https://github.com/jmmanoza/jmmanoza/assets/153807014/188d88e2-dcc1-4070-b56a-53ffc9bd849e"> there!</h1>
+<h1 align="center">Hi <img width="24" height="24" src="https://github.com/jmmanoza/jmmanoza/assets/153807014/188d88e2-dcc1-4070-b56a-53ffc9bd849e"> <img width="30" height="30" src="https://github.com/jmmanoza/jmmanoza/assets/153807014/8ac6a301-b72c-4255-803c-15b1caff7a05"> </h1>
 
 ---
 
@@ -19,9 +19,7 @@
 
 ---
 
-<h1 align="center">Apps <img width="30" height="30" src="https://github.com/jmmanoza/jmmanoza/assets/153807014/8ac6a301-b72c-4255-803c-15b1caff7a05"> </h1>
-
----
+<h1 align="center">Apps </h1>
 
 <h2> TOP.ph </h2>
 

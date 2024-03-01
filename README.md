@@ -24,7 +24,7 @@
 TOP.ph 
 - Your new all-in-one eWallet app where you can send cash, buy load, purchase gaming pins, and many more.
 
-<h1 align="center"> <img width="800" height="560" src="https://github.com/jmmanoza/jmmanoza/assets/153807014/deac9724-6b03-46c5-a903-be8ea4a76558"> </h1>
+<h1 align="center"> <img width="610" height="344" src="https://github.com/jmmanoza/jmmanoza/assets/153807014/deac9724-6b03-46c5-a903-be8ea4a76558"> </h1>
 
 --
 

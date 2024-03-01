@@ -28,7 +28,7 @@
 - Your new all-in-one eWallet app where you can send cash, buy load, purchase gaming pins, and many more.
 
 <div align="center">
-  <video src="![topph](https://github.com/jmmanoza/jmmanoza/assets/153807014/56ff9784-31a9-44ee-b575-8039deba6658)" width="610" height="360" />
+  <video src="https://github.com/jmmanoza/jmmanoza/assets/153807014/56ff9784-31a9-44ee-b575-8039deba6658" width="610" height="360" />
 </div>
 --
 

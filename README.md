@@ -21,10 +21,13 @@
 
 <h1 align="center">Apps <img width="32" height="32" src="https://github.com/jmmanoza/jmmanoza/assets/153807014/ecbaf08f-0e5c-4977-99a0-55497478f250"> </h1>
 
-TOP.ph 
+---
+
+<h2> TOP.ph </h2>
+
 - Your new all-in-one eWallet app where you can send cash, buy load, purchase gaming pins, and many more.
 
-<h1 align="center"> <img width="610" height="344" src="https://github.com/jmmanoza/jmmanoza/assets/153807014/deac9724-6b03-46c5-a903-be8ea4a76558"> </h1>
+<h1 align="center"> <img width="610" height="360" src="https://github.com/jmmanoza/jmmanoza/assets/153807014/deac9724-6b03-46c5-a903-be8ea4a76558"> </h1>
 
 --
 

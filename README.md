@@ -26,6 +26,8 @@ TOP.ph
 
 https://github.com/jmmanoza/jmmanoza/assets/153807014/2186a6e7-7bba-4c22-9196-bf1e72d56500
 
+--
+
 Upmood Watch
 - Upmood is the first emotion tracking wearable and app that helps people be their best self through a deeper and better understanding of their emotion.
 

@@ -19,7 +19,7 @@
 
 ---
 
-<h1 align="center">Apps </h1>
+<h1 align="left">Apps </h1>
 
 <h2> TOP.ph </h2>
 

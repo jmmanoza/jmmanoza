@@ -38,7 +38,7 @@ The fully-featured Upmood band which connects to the app is also paired with a m
 
 Ultimately, Upmood changes the way we feel and communicate by revolutionizing human emotions.
 
-##### 🔨 Technologies: Swift, UIKit, MVVM, Firebase, Push Notifications, AWS SDK, REST API (Alamofire)
+##### 🔨 Technologies: Swift, UIKit, Core Bluetooth, MVVM, Charts, Firebase, Push Notifications, AWS SDK, REST API (Alamofire)
 ##### 🚀 Platform: iOS
 
 <a href="" target=""> <img src="https://github.com/jmmanoza/jmmanoza/assets/153807014/be8fc8e1-1a03-4cf7-8ed5-8ef859ad58cf" width=900 title="upmood"></a>

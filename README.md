@@ -19,19 +19,16 @@
 
 ---
 
-<h1 align="left">Apps </h1>
-
 ## TOP.ph
 [TOP.ph](https://www.facebook.com/theorangeplatform) is your new all-in-one eWallet app where you can send cash, buy load, purchase gaming pins, and many more.
 
 ##### 🔨 Technologies: Swift, SwiftUI, Moya, Firebase, Realm and AWS
 ##### 🚀 Platform: iOS
 
-<p> align="center">
 <a href="" target=""> <img src="https://github.com/jmmanoza/jmmanoza/assets/153807014/7c6665eb-d48c-4f98-8d20-d838d23a20e3" width=900 title="top.ph"></a>
 </p>
 
---
+##
 
 <h3> Upmood Watch </h3>
 

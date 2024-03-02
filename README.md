@@ -2,8 +2,6 @@
 
 <h1 align="center">Hi <img width="24" height="24" src="https://github.com/jmmanoza/jmmanoza/assets/153807014/188d88e2-dcc1-4070-b56a-53ffc9bd849e"> <img width="30" height="30" src="https://github.com/jmmanoza/jmmanoza/assets/153807014/8ac6a301-b72c-4255-803c-15b1caff7a05"> </h1>
 
----
-
 - 🧠 Currently studying Flutter, Dart, React Native
 - 🌍 I'm based in Quezon City, Philippines
 - 💬 Ask me about **Swift, SwiftUI**

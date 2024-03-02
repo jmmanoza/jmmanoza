@@ -22,34 +22,27 @@
 ## TOP.ph
 [TOP.ph](https://www.facebook.com/theorangeplatform) is your new all-in-one eWallet app where you can send cash, buy load, purchase gaming pins, and many more.
 
-##### 🔨 Technologies: Swift, SwiftUI, Moya, Firebase, Realm and AWS
+##### 🔨 Technologies: Swift, SwiftUI, MVVM, UI + Unit Test (XCTest), Firebase, Realm, Push Notifications, AWS SDK, REST API (Moya)
 ##### 🚀 Platform: iOS
 
 <a href="" target=""> <img src="https://github.com/jmmanoza/jmmanoza/assets/153807014/7c6665eb-d48c-4f98-8d20-d838d23a20e3" width=900 title="top.ph"></a>
-</p>
 
 ##
 
-<h3> Upmood Watch </h3>
+## Upmood 
+[Upmood](https://www.upmood.com/) is the first emotion tracking wearable and app that helps people be their best self through a deeper and better understanding of their emotion.
 
-- Upmood is the first emotion tracking wearable and app that helps people be their best self through a deeper and better understanding of their emotion.
-- [LEARN MORE](https://www.upmood.com/)
+Through the built-in PPG sensor, Upmood can detect up to 11 emotions — Calm, Pleasant, Unpleasant, Happy, Sad, Excitement, Anxious, Strained, Confused, Challenged, and Zen, simply from a person's heart rate, stress levels, and vitality levels. The information is then translated to real time, day-to-day data for users to keep track of their emotional trends and progress.
 
-<div align="center">
-  <video src="https://github.com/jmmanoza/jmmanoza/assets/153807014/1eae6cc0-aa9a-409e-b92f-6a1e4926e32e" width="610" height="360" />
-</div>
---
-    
-<h3> MoodMix by Upmood </h3>
+On the outside, Upmood comes in a minimalist design of PC plastic watch that emulates the technology's transparency of sharing emotions. Upmood also comes in an assortment of colorful straps and lasts for 12-hours of run time and 48-hour standby time.
 
-- MoodMix is an emotional DJ AI that has the ability to understand the user’s emotion quality and creates responsive playlists using Alpha, Beta and Delta and Gamma waves when wearing the tracker. By capitalizing on these waves, the technology will generate the right music to optimize the user’s different scenarios.
-  
-- The entire catalogue of the MoodMix Player has been carefully selected and curated entirely from our highly acclaimed, award-winning library.
+The fully-featured Upmood band which connects to the app is also paired with a monitoring app for users to manage their emotional health, keep their mood in check, reconnect with people, and spark meaningful conversations with their friends and family. The app also gives users updates on their friend's and family's emotions at the moment, and even comes with stickers for a more personalized interaction. With our brand new Upmood Watch you your watch would vibrate whenever you receive any SMS or phone calls!
 
-- Coupling Upmood’s technology with our quality mood music, Moodmix is the perfect collaboration and tool for anyone who needs and wants music to accompany their various journeys.
+Ultimately, Upmood changes the way we feel and communicate by revolutionizing human emotions.
 
-- [LEARN MORE](https://www.universalproductionmusic.com/en-hk/discover/get-inspired/upmood-moodmix)
+##### 🔨 Technologies: Swift, UIKit, MVVM, Firebase, Push Notifications, AWS SDK, REST API (Alamofire)
+##### 🚀 Platform: iOS
 
-<div align="center">
-  <video src="https://github.com/jmmanoza/jmmanoza/assets/153807014/1a888fac-a467-4621-bf16-c0d796238b67" width="610" height="360" />
-</div>
+<a href="" target=""> <img src="https://github.com/jmmanoza/jmmanoza/assets/153807014/be8fc8e1-1a03-4cf7-8ed5-8ef859ad58cf" width=900 title="upmood"></a>
+
+##

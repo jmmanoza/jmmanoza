@@ -44,3 +44,14 @@ Ultimately, Upmood changes the way we feel and communicate by revolutionizing hu
 <a href="" target=""> <img src="https://github.com/jmmanoza/jmmanoza/assets/153807014/be8fc8e1-1a03-4cf7-8ed5-8ef859ad58cf" width=900 title="upmood"></a>
 
 ##
+
+## Coffee-Project (This app is still under development)
+
+A coffee shop app created in react native for both ios and android platform
+
+##### 🔨 Technologies: React Native, JS, React Navigation, npm immer, npm zustand, React Native Async Storage
+##### 🚀 Platform: iOS and Android
+
+<a href="" target=""> <img src="https://github.com/jmmanoza/Coffee-Project/assets/153807014/cc8f7f9b-6cc8-46d7-8783-4a94c6e8d98d" width=900 title="coffeeproject"></a>
+
+##

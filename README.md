@@ -1,5 +1,5 @@
-![dinodark](https://github.com/jmmanoza/jmmanoza/assets/153807014/7a9d2356-26d6-4fe7-b9af-db412a8345f9.gif#gh-dark-mode-only)
-![dinolight](https://github.com/jmmanoza/jmmanoza/assets/153807014/f1f09a3f-0bbd-435e-a7fe-fab29e6de3b4.gif#gh-light-mode-only)
+
+<img height="200" src="https://github.com/jmmanoza/jmmanoza/assets/153807014/7a9d2356-26d6-4fe7-b9af-db412a8345f9.gif#gh-dark-mode-only">
 
 <h1 align="center">Hi <img width="24" height="24" src="https://github.com/jmmanoza/jmmanoza/assets/153807014/188d88e2-dcc1-4070-b56a-53ffc9bd849e"> </h1>
 

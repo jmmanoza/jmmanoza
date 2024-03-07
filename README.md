@@ -1,15 +1,14 @@
+![mario](https://github.com/jmmanoza/jmmanoza/assets/153807014/d930c98d-b506-40b5-8b87-066f6e109b05)
 
-<img height="200" src="https://github.com/jmmanoza/jmmanoza/assets/153807014/7a9d2356-26d6-4fe7-b9af-db412a8345f9.gif#gh-dark-mode-only">
+<h1 align="center"> Hello, <img width="24" height="24" src="https://github.com/jmmanoza/jmmanoza/assets/153807014/188d88e2-dcc1-4070-b56a-53ffc9bd849e"> I'm Jm iOS Developer. </h1>
 
-<h1 align="center">Hi <img width="24" height="24" src="https://github.com/jmmanoza/jmmanoza/assets/153807014/188d88e2-dcc1-4070-b56a-53ffc9bd849e"> </h1>
-
-- 🧠 Currently studying **Flutter, Dart**
-- 🌍 I'm based in Quezon City, Philippines
+- 🧠 Currently studying **Dart & Flutter**
+- 🌍 I'm based in **Quezon City, Philippines**
 - 💬 Ask me about **Swift, SwiftUI**
-- 📧 You can email me at [josephmikomanoza](mailto:josephmikomanoza@gmail.com)
-- 📞 You can contact me at (+63)945-605-4532
-- 📄 Most updated [resume](https://urlr.me/rs5Yh)
-- 🤍 I love anime, video games, music and kdrama?
+- 📧 You can email me at [**josephmikomanoza**](mailto:josephmikomanoza@gmail.com)
+- 📞 You can contact me at **(+63)945-605-4532**
+- 📄 Most updated [**resume**](https://urlr.me/rs5Yh)
+- 🤍 I love **anime, video games, music and kdrama?**
 
 
 <h2 align="left">Languages and Tools:</h2>

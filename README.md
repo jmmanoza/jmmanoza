@@ -1,14 +1,15 @@
-![retrogaming](https://github.com/jmmanoza/jmmanoza/assets/153807014/600aee30-bc20-4474-9509-41f02c36dae7)
+![dinodark](https://github.com/jmmanoza/jmmanoza/assets/153807014/7a9d2356-26d6-4fe7-b9af-db412a8345f9#gh-dark-mode-only)
+![dinolight](https://github.com/jmmanoza/jmmanoza/assets/153807014/f1f09a3f-0bbd-435e-a7fe-fab29e6de3b4#gh-light-mode-only)
 
-<h1 align="center">Hi <img width="24" height="24" src="https://github.com/jmmanoza/jmmanoza/assets/153807014/188d88e2-dcc1-4070-b56a-53ffc9bd849e"> <img width="30" height="30" src="https://github.com/jmmanoza/jmmanoza/assets/153807014/8ac6a301-b72c-4255-803c-15b1caff7a05"> </h1>
+<h1 align="center">Hi <img width="24" height="24" src="https://github.com/jmmanoza/jmmanoza/assets/153807014/188d88e2-dcc1-4070-b56a-53ffc9bd849e"> </h1>
 
-- 🧠 Currently studying Flutter, Dart, React Native
+- 🧠 Currently studying **Flutter, Dart**
 - 🌍 I'm based in Quezon City, Philippines
 - 💬 Ask me about **Swift, SwiftUI**
 - 📧 You can email me at [josephmikomanoza](mailto:josephmikomanoza@gmail.com)
 - 📞 You can contact me at (+63)945-605-4532
-- 📄 Most updated [Resume](https://urlr.me/rs5Yh)
-- 🤍 I love Anime, Video Games, Music and Kdrama?
+- 📄 Most updated [resume](https://urlr.me/rs5Yh)
+- 🤍 I love anime, video games, music and kdrama?
 
 
 <h2 align="left">Languages and Tools:</h2>
